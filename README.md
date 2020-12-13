@@ -34,7 +34,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot]["/images/logo.png"]](https://github.com/kanishksh4rma/Brain_Tumour_detection_using_MRI_Scans)
+<a href="https://github.com/kanishksh4rma/Brain_Tumour_detection_using_MRI_Scans">
+    <img src="images/logo.png" width="80" height="80">
+  </a>
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
