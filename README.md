@@ -5,9 +5,7 @@
   <a href="https://github.com/kanishksh4rma/Brain_Tumour_detection_using_MRI_Scans">
     <img src="images/logo.png" alt="Logo" width="300" height="300">
   </a>
-
-  
-<!-- TABLE OF CONTENTS -->
+  <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
@@ -25,11 +23,9 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -38,7 +34,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][/images/logo.png]](https://github.com/kanishksh4rma/Brain_Tumour_detection_using_MRI_Scans)
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
@@ -54,9 +50,9 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 ### Built With
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+* Deep Learning
+* Transfer Learning
+* VGG16
 
 
 
@@ -71,7 +67,7 @@ To get a local copy up and running follow these simple example steps.
 This is an example of how to list things you need to use the software and how to install them.
 * npm
   ```sh
-  npm install npm@latest -g
+  python3 -m venv braintumour
   ```
 
 ### Installation
@@ -79,7 +75,8 @@ This is an example of how to list things you need to use the software and how to
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   source braintumour/bin/activate
+   git clone https://github.com/kanishksh4rma/Brain_Tumour_detection_using_MRI_Scans/
    ```
 3. Install NPM packages
    ```sh
@@ -131,9 +128,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - [@kanishksh4rma](https://linkedin.com/in/kanishksh4rma) 
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/your_username/repo_name](https://github.com/kanishksh4rma/Brain_Tumour_detection_using_MRI_Scans)
 
 
 
