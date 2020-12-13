@@ -34,7 +34,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][/images/logo.png]](https://github.com/kanishksh4rma/Brain_Tumour_detection_using_MRI_Scans)
+[![Product Name Screen Shot]["/images/logo.png"]](https://github.com/kanishksh4rma/Brain_Tumour_detection_using_MRI_Scans)
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
@@ -131,11 +131,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Your Name - [@kanishksh4rma](https://linkedin.com/in/kanishksh4rma) 
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/kanishksh4rma/Brain_Tumour_detection_using_MRI_Scans)
-
-
-
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
