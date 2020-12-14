@@ -111,5 +111,5 @@ See [LICENSE](LICENSE) file.
 
 LinkedIn - [@kanishksh4rma](https://linkedin.com/in/kanishksh4rma) 
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/kanishksh4rma/Brain_Tumour_detection_using_MRI_Scans)
+Project Link: [Brain_Tumour_detection_using_MRI_Scans](https://github.com/kanishksh4rma/Brain_Tumour_detection_using_MRI_Scans)
 
