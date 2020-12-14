@@ -64,12 +64,11 @@ Create a virtualenv. (optional)
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/kanishksh4rma/Brain_Tumour_detection_using_MRI_Scans/
    ```
-3. Install required libraries
+2. Install required libraries
    ```sh
    pip install -r requirements.txt
    ```
@@ -80,7 +79,7 @@ Now run the app.py file by typing following command
 ```sh
    python app.py
    ```
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation](#)_
 
 
 
