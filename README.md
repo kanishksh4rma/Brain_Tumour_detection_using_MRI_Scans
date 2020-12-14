@@ -1,4 +1,8 @@
 # Brain_Tumour_detection_using_MRI_Scans
+---
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=102)](https://github.com/kanishksh4rma/Coronavirus_Detection_using_Chest_X_ray)
+[![Code Climate](https://codeclimate.com/github/boennemann/badges.svg)](https://github.com/kanishksh4rma/Coronavirus_Detection_using_Chest_X_ray)
+
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -45,9 +49,21 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 > * VGG16 (Transfer Learning in Deep Learning)
 
 ---
+## Directory Structure
 
-
-
+```sh
+├── Coronavirus_Detection_using_Chest_X_ray.ipynb
+├── LICENSE
+├── README.md
+└── screenshots
+    ├── acc.png
+    ├── accuracy.png
+    ├── classification_report.png
+    ├── demo.png
+    ├── loss.png
+    ├── specs.png
+    └── test_predict_plots.png
+```
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -102,13 +118,7 @@ See [LICENSE](LICENSE) file.
                                       "Take stands, take risks, take responsibility."
                                                                     — Muriel Siebert
 
+---
 
-
-
-<!-- CONTACT -->
-## Contact
-
-LinkedIn - [@kanishksh4rma](https://linkedin.com/in/kanishksh4rma) 
-
-Project Link: [Brain_Tumour_detection_using_MRI_Scans](https://github.com/kanishksh4rma/Brain_Tumour_detection_using_MRI_Scans)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/kanishksh4rma/Coronavirus_Detection_using_Chest_X_ray)
 
