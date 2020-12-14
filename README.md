@@ -6,13 +6,14 @@
     <img src="images/logo.png" alt="Logo" width="300" height="300">
   </a>
   <!-- INTRODUCTION -->
+
 ## Objective
   
 Brain tumors are the consequence of abnormal growths and uncontrolled cells division in the brain. They can lead to death if they are not detected early and accurately. Some types of brain tumor such as Meningioma, Glioma, and Pituitary tumors are more common than the others.
 
 In this project, I designed & built an automatic brain tumor segmentation technique based on Convolutional Neural Network. We have used three MRI views of human brain. MRI scan is used because it is less harmful and more accurate than CT brain scan.
   
-  <!-- TABLE OF CONTENTS -->
+  <!--  <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
@@ -35,7 +36,7 @@ In this project, I designed & built an automatic brain tumor segmentation techni
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
-
+-->
 
 
 <!-- ABOUT THE PROJECT -->
