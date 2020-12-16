@@ -124,8 +124,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) file for detailed information.
 See [LICENSE](LICENSE) file.
 
 
-                                    "What we know is a drop, what we don't know is an ocean."
-                                                                      — Isaac Newton
+                              "What we know is a drop, what we don't know is an ocean."
+                                                                — Isaac Newton
 
 ---
 
