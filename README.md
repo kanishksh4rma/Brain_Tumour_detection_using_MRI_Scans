@@ -35,19 +35,23 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 ### Libraries used : 
 
 ```
+  
+  * keras
+  * TensorFlow
+  * sklearn  
   * pandas
   * numpy
   * matplotlib
-  * keras
-  * sklearn  
+
 ```
 ---
 
 ## Algorithms Used
 
+
 > * VGG16 (Transfer Learning in Deep Learning)
 
----
+
 ## Directory Structure
 
 ```sh
@@ -57,10 +61,6 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 │   └── logo.png
 ├── LICENSE
 ├── README.md
-├── Screenshots
-│   ├── Screenshot from 2020-12-13 00.23.25.png
-│   ├── Screenshot from 2020-12-13 00.23.56.png
-│   └── Screenshot from 2020-12-13 00.24.25.png
 └── Test Dataset
     ├── Normal
     │   ├── no1.jpg
