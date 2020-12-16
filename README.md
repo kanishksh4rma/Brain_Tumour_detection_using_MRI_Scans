@@ -39,8 +39,7 @@ A list of commonly used resources that I find helpful are listed in the acknowle
   * numpy
   * matplotlib
   * keras
-  * sklearn
-  
+  * sklearn  
 ```
 ---
 
@@ -52,17 +51,29 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 ## Directory Structure
 
 ```sh
-├── Coronavirus_Detection_using_Chest_X_ray.ipynb
+├── Brain_Tumour_Detection_using_MRI_scans.ipynb
+├── brain_tumour_detection_using_mri_scans.py
+├── images
+│   └── logo.png
 ├── LICENSE
 ├── README.md
-└── screenshots
-    ├── acc.png
-    ├── accuracy.png
-    ├── classification_report.png
-    ├── demo.png
-    ├── loss.png
-    ├── specs.png
-    └── test_predict_plots.png
+├── Screenshots
+│   ├── Screenshot from 2020-12-13 00.23.25.png
+│   ├── Screenshot from 2020-12-13 00.23.56.png
+│   └── Screenshot from 2020-12-13 00.24.25.png
+└── Test Dataset
+    ├── Normal
+    │   ├── no1.jpg
+    │   ├── no2.jpg
+    │   ├── no3.jpg
+    │   ├── no4.jpg
+    │   └── no5.jpg
+    └── Tumour
+        ├── y1.jpg
+        ├── y2.jpg
+        ├── y3.jpg
+        ├── y4.jpg
+        └── y5.jpg
 ```
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -115,10 +126,10 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) file for detailed information.
 See [LICENSE](LICENSE) file.
 
 
-                                      "Take stands, take risks, take responsibility."
-                                                                    — Muriel Siebert
+                                    "What we know is a drop, what we don't know is an ocean."
+                                                                      — Isaac Newton
 
 ---
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/kanishksh4rma/Coronavirus_Detection_using_Chest_X_ray)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/kanishksh4rma/Brain_Tumour_detection_using_MRI_Scans)
 
