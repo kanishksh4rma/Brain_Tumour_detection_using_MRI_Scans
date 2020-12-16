@@ -35,14 +35,12 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 ### Libraries used : 
 
 ```
-  
   * keras
   * TensorFlow
   * sklearn  
   * pandas
   * numpy
   * matplotlib
-
 ```
 ---
 
